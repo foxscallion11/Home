@@ -1,0 +1,1 @@
+(function hitokoto(){var hitokoto="相恨不如潮有信，相思始觉海非深。";var dom=document.querySelector('.hito');Array.isArray(dom)?dom[0].innerText=hitokoto:dom.innerText=hitokoto;})()
